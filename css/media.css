@@ -1,0 +1,15 @@
+@media screen and (max-width:768px){
+.container {
+  max-width: none;
+  column-count: inherit;
+  -webkit-column-count: inherit;
+  -moz-column-count: inherit;
+}
+
+.container img{
+  margin: 0;
+  margin-bottom: 20px;
+  width: 100%;
+  display: block;
+}
+}

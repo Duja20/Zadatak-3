@@ -1,0 +1,11 @@
+.container {
+  max-width: 750px;
+  margin: 0 auto;
+  column-count: 2;
+  -webkit-column-count:2;
+  -moz-column-count:2;
+}
+
+.container img {
+  margin: 18.5px;
+}
